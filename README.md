@@ -11,8 +11,8 @@ Nesse jogo, o programa escolhe um número aleatório e o usuário deverá adinha
 - `Desenvolvimento web`: Criar interações simples em páginas web com alert e prompt.
 
 ## Acesse o projeto
-Acesso o código do projeto [aqui](https://github.com/lillianmartins/logica-js-numero-secreto)
-ou Jogue [aqui](https://logica-js-numero-secreto-five.vercel.app/) 
+Acesse o código do projeto [aqui](https://github.com/lillianmartins/logica-js-numero-secreto)
+ou jogue [aqui](https://logica-js-numero-secreto-five.vercel.app/) 
 
 ## Mais informações sobre o curso
 Acesse [aqui](https://www.alura.com.br/curso-online-logica-programacao-mergulhe-programacao-javascript)
