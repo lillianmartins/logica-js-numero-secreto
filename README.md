@@ -10,6 +10,10 @@ Nesse jogo, o programa escolhe um número aleatório e o usuário deverá adinha
 - `JavaScript`: Sintaxe básica, funções e manipulação de dados.
 - `Desenvolvimento web`: Criar interações simples em páginas web com alert e prompt.
 
-# Mais informações sobre o curso
+## Acesse o projeto
+Acesso o código do projeto [aqui](https://github.com/lillianmartins/logica-js-numero-secreto)
+ou Jogue [aqui](https://logica-js-numero-secreto-five.vercel.app/) 
+
+## Mais informações sobre o curso
 Acesse [aqui](https://www.alura.com.br/curso-online-logica-programacao-mergulhe-programacao-javascript)
 
